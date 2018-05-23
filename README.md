@@ -18,9 +18,10 @@
 
 ## Python_Step03
 * ### 백준 알고르짐 단계별로 풀어보기 3단계
-  * [for문 사용하기](https://www.acmicpc.net/step/3)
+  * [for문 사용하기](https://www.acmicpc.net/step/3)
 * ### 사용한 함수 및 모듈
-  * sys - 모듈이며 인터프리터가 제공하는 변수들과 함수들을 직접 제어할 수 있게 해주는 모듈 
-  (input() 대신 sys.stdin.readline() 사용)
-  * join() - 문자열의 문자 사이에 값을 집어넣는다. 
+  * sys - 모듈이며 인터프리터가 제공하는 변수들과 함수들을 직접 제어할 수 있게 해주는 모듈
+    * (input() 대신 sys.stdin.readline() 사용) 
+  * join() - 문자열의 문자 사이에 값을 집어넣는다. 
+  
   
